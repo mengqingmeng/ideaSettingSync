@@ -1,0 +1,21 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-03-22T09:14:45</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.5.0.0</property>
+    <property name="modified">2019-03-22T10:17:35</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7d7d7d" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="236aee" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
