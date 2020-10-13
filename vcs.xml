@@ -14,6 +14,10 @@
           <option name="url" value="http://gitlab.sztnit.com:8001" />
           <option name="userName" value="mqm" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.sztnit.com:8001/tnit/website-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\Workspace\TNIT" />
